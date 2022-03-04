@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artichaudhary0&label=Profile%20views&color=0e75b6&style=flat" alt="artichaudhary0" /> </p>
 
+<img align="right" alt = "Coding" width="400" src="https://dribbble.com/shots/7736965-Work-at-home"
+
 - 🔭 I’m currently working on [flutter](https://github.com/artichaudhary0/learning30DaysOfFlutter)
 
 - 🌱 I’m currently learning **firebase, flutter using firebase**
