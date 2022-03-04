@@ -2,6 +2,7 @@
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artichaudhary0&label=Profile%20views&color=0e75b6&style=flat" alt="artichaudhary0" /> </p>
+<img align ="right" width="400" height="400" alt="Coding" src="![undraw_Mobile_development_re_wwsn](https://user-images.githubusercontent.com/71622834/156753339-520679bb-c798-446a-a374-31d09d3ec80f.png)"/></img>
 
 - 🔭 I’m currently working on [flutter](https://github.com/artichaudhary0/learning30DaysOfFlutter)
 
