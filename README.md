@@ -1,5 +1,9 @@
+![try4](https://user-images.githubusercontent.com/71622834/156876444-43bcf750-b2ed-41cc-98ca-76791dacf675.png)
+
 <h1 align="center">Hi 👋, I'm Arti Chaudhary</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
+
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e6427232957589.569a436f3d343.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artichaudhary0&label=Profile%20views&color=0e75b6&style=flat" alt="artichaudhary0" /> </p>
 
