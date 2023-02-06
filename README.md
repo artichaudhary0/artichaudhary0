@@ -1,5 +1,3 @@
-![try4](https://user-images.githubusercontent.com/71622834/156876444-43bcf750-b2ed-41cc-98ca-76791dacf675.png)
-
 <h1 align="center">Hi 👋, I'm Arti Chaudhary</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
 
