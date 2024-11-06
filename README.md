@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/chaudhary-aarti1998/?edit=true](https://www.crio.do/learn/portfolio/chaudhary-aarti1998/?edit=true)
-
 - 💬 Ask me about **Android, Flutter, Web Development**
 
 - 📫 How to reach me **chaudhary.aarti1998@gmail.com**
