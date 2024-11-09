@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artichaudhary0&show_icons=true&locale=en&layout=compact" alt="artichaudhary0" /></p>
 
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artichaudhary0)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=artichaudhary0)](https://git.io/streak-stats)
