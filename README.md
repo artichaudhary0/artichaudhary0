@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arti Chaudhary...</h1>
+<h1 align="center">Hi there👋, I'm Arti Chaudhary...</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=artichaudhary0&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="artichaudhary0" /> </p> -->
