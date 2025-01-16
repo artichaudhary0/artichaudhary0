@@ -1,9 +1,6 @@
 <h1 align="center">Hi There👋, I'm Arti Chaudhary...</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=artichaudhary0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 - 🔭 I’m currently working on [JS Basic To Advance Projects](https://github.com/artichaudhary0/Js-Basic-Projects)
 
