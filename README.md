@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Arti Chaudhary...</h1>
 
 
-- 🔭 I’m currently working on [JS Basic To Advance Projects](https://github.com/artichaudhary0/Js-Basic-Projects)
+- 🔭 I’m currently working on [React Projects](https://github.com/artichaudhary0/Js-Basic-Projects)
 
 - 🌱 I’m currently learning **MERN**
 
